@@ -1,4 +1,5 @@
 <?php
+
 class CartController
 {
   protected $products;
